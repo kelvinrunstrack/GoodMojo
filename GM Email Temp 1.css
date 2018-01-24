@@ -1,0 +1,59 @@
+body {
+    border: 1px solid #5890DC;
+    box-sizing: border-box;
+}
+
+.top {
+    background-color: #EFEFEF;
+    width: 90%;
+    height: 200px;
+    margin: 0 auto 0 auto;
+}
+
+#kelvin {
+    visibility: hidden;
+}
+
+.mojodog {
+    display: block;
+    width: 12%;
+    margin: 0px auto 0px auto;
+}
+
+.explainer {
+    font-family: "Open Sans";
+    text-align: center;
+    width: 80%;
+    margin: 70px auto 0px auto;
+    padding-bottom: 70px;
+    border-bottom: 1px solid #5890DC;
+}
+
+.meetcrew {
+    text-align: center;
+    font-family: "Arvo";
+    margin: 60px
+}
+
+.grid {
+    display: grid;
+    width: 80%;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    align-self: center;
+}
+
+.crew {
+    width: 50%;
+    margin-top: 20px;
+}
+
+.name {
+    font-family: "Arvo";
+    color: #5890DC;
+    margin: 40px auto 40px auto;
+}
+
+.describe {
+    font-family: "Open Sans";
+}
