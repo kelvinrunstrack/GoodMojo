@@ -1,0 +1,27 @@
+body {
+    background-color: #5890DC;
+}
+
+.signinbox {
+    background-color: #FFF;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 3px;
+    box-sizing: border-box;
+    width: 300px;
+}
+
+.box {
+    border: 1px blue solid;
+    margin: 10px;
+    border-radius: 1px;
+    padding: 5px;
+}
+
+.signin {
+    text-align: center;
+    font-family: Arvo;
+}
+
