@@ -1,0 +1,43 @@
+.right {
+    float: right;
+    background-color: #B4B4B4;
+    height: 400px;
+    width: 48%;
+    margin: 1%;
+    margin-top: 50px;
+}
+
+.left {
+    float: left;
+    background-color: #B4B4B4;
+    height: 400px;
+    width: 48%;
+    margin: 1%;
+    margin-top: 50px;
+}
+
+.box {
+    width: 45%;
+    height: 200px;
+    margin: 50px auto 0 auto;
+}
+
+.gray {
+    background-color: #DCDCDC;
+}
+
+.text200 {
+    font-family: "Open Sans";
+    text-align: center;
+    position: relative;
+    line-height: 200px;
+}
+
+.text {
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+.margin50 {
+    margin-top: 50px;
+}
